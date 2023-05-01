@@ -44,6 +44,42 @@
         "latitude": 25.197525,
         "longitude": 55.274288,
         "picture": "burj khalifa"
+    },
+    {
+        "id": 6,
+        "name": "Eiffel Tower",
+        "country": "france",
+        "description": "The Eiffel Tower is a wrought-iron lattice tower located in Paris, France. It was built in 1889 as the centerpiece of the Exposition Universal, a world's fair celebrating the 100th anniversary of the French Revolution. Designed by Gustave Eiffel, the tower stands at 1,063 feet tall and was the tallest man-made structure in the world until 1930. The tower has three levels that are open to the public, with the highest level offering stunning views of the city. Today, the Eiffel Tower is one of the most recognizable landmarks in the world and is visited by millions of tourists every year.",
+        "latitude": 48.8583,
+        "longitude": 2.2945,
+        "picture": "eiffel tower"
+    },
+    {
+        "id": 7,
+        "name": "Marina Bay Sands Hotel",
+        "country": "singapore",
+        "description": "Marina Bay Sands hotel in Singapore is a marvel of engineering and technology. The hotel's three towers, each standing at 55 stories tall, are built on top of a massive foundation that required over 150,000 cubic meters of concrete to construct. The SkyPark, which sits on top of the three towers, weighs more than 7,000 tonnes and is supported by four massive legs. The infinity pool on the rooftop is one of the largest in the world, holding over 1.3 million liters of water. The hotel's cooling system uses innovative technology that recycles condensate from the air-conditioning units to irrigate the hotel's gardens. Additionally, the hotel uses energy-efficient LED lighting and has implemented sustainable practices to reduce its carbon footprint. ",
+        "latitude": 1.283889,
+        "longitude": 103.858889,
+        "picture": "marina bay sands hotel"
+    },
+    {
+        "id": 8,
+        "name": "Sydney Opera House",
+        "country": "austrailia",
+        "description": "It is one of the representative images of Australia. The shell-like roof of the building is known to have come to mind while Uchon, a Danish architect who won the international design contest, was peeling an orange. The outer surface, which is partly circular in shape, reminds us of the small fleet of sailing ships that often sail there. The Sydney Opera House is considered one of Sydney's major tourist attractions, even if many tourists are not interested in watching the performance. The Sydney Opera House, where ballet, musical performances and operas are held, is the home of the Australian Opera Company, the Sydney Theatre Company and the Sydney Symphony Orchestra and is run by the Opera House Fund, an organization under the New South Wales State Minister of Culture. The Sydney Opera House was selected as a UNESCO World Heritage Site in 2007.",
+        "latitude": -33.856159,
+        "longitude": 151.215256,
+        "picture": "sydney opera house"
+    },
+    {
+        "id": 9,
+        "name": "Empire States Building",
+        "country": "united states of america",
+        "description": "The Empire State Building is a Woolworths Gothic building built in 1931 and located on 5th Street and 34th block of Manhattan Island, New York. It is 381 m high on the 102nd floor and 443 m high, including the antenna tower installed in 1953. The 16-story steel tower above the 86-story concrete building was originally built for the purpose of the airship's mooring tower, but it was rarely used because of the high wind, and now only the observatory and broadcast antenna are located. It is also famous for the scene of King Kong on the antenna tower in the movie King Kong. The Empire State Building has 73 elevators, all of which are 11 kilometers long. It also has 1,860 stairs and 6,500 windows up to the 102nd floor. There are about 940 companies and about 20,000 people working in the building. Before the World Trade Center was built, it was the tallest building in the world. It became the tallest building in New York City after the September 11 attacks destroyed the World Trade Center. With this building at its peak, the skyscraper is a symbol of the concentration of business functions in New York in the first half of the 20th century.",
+        "latitude": 40.748817,
+        "longitude": -73.985428,
+        "picture": "empire states building"
     }
  ]
 
